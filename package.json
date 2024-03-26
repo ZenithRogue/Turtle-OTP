@@ -1,6 +1,6 @@
 {
   "name": "turtle-otp",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Lightweight TOTP library using only built-in packages",
   "main": "index.js",
   "scripts": {
@@ -15,5 +15,13 @@
     "2fa"
   ],
   "author": "ZenithKnight",
-  "license": "MIT"
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ZenithRogue/Turtle-OTP.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ZenithRogue/Turtle-OTP/issues"
+  },
+  "homepage": "https://github.com/ZenithRogue/Turtle-OTP#readme"
 }
