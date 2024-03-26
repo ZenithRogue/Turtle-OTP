@@ -1,0 +1,19 @@
+{
+  "name": "turtle-otp",
+  "version": "1.0.0",
+  "description": "Lightweight TOTP library using only built-in packages",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "totp",
+    "i like turtles",
+    "otp",
+    "one time passcode",
+    "mfa",
+    "2fa"
+  ],
+  "author": "ZenithKnight",
+  "license": "MIT"
+}
